@@ -1,0 +1,10 @@
+{
+  "geolocations": [
+    {
+      "longitude": -2.49690382054704,
+      "latitude": 53.5351312861402,
+      "radius": 1000,
+      "limit": 5
+    }
+  ]
+}
